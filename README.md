@@ -3,6 +3,9 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=red&style=for-the-badge"/>
 </p>
 
+# 📎Objetivo: 
+-  esse projeto tem como finalidade , aprender lógica de programação, onde o objetivo e criar um jogo em que a máquina sorteie um número aleátorio e o jogador tem que adivinhar qual número foi sorteado.
+
 # :hammer: Funcionalidades
 - `Funcionalidade 1`: Computador gera um número aleatório.
 - `Funcionalidade 2`: Informa se o valor que digitamos é maior ou menor que o número gerado.
