@@ -38,5 +38,5 @@ Durante o desenvolvimento, o foco foi criar uma experiência interativa e funcio
 - **HTML, CSS e JavaScript**
 - **IDE VS Code**
 
-## 🎮Voce pode testar o jogo
+## 🎮Você pode testar o jogo
 - https://jogo-do-numero-secreto-gold-ten.vercel.app/
